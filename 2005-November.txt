@@ -1,0 +1,20 @@
+From contact at i-nz.net  Tue Nov 29 08:47:24 2005
+From: contact at i-nz.net (Ivan N. Zlatev)
+Date: Tue, 29 Nov 2005 07:47:24 +0000
+Subject: [Inm-devel] Test test test ;)
+Message-ID: <438C078C.5070308@i-nz.net>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFDjAeMVGXCBmPOZ0ARAlPhAJsEBKAK9SWNgeW2sycomkHBRDLTcQCgh+H7
+JS/yYph2Khjb1hnToT9tHho=
+=p5/Y
+-----END PGP SIGNATURE-----
+
+
